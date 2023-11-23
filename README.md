@@ -36,9 +36,9 @@
 **5. Access the server:**
   Once the server is running, you should be able to access it in your browser or using tools like cURL or Postman.
   
-  By default, an Express server might run on http://localhost:5000.
+  By default, an Express server might run on [http://localhost:5000](http://localhost:5000/api/questions).
   
-  Open your browser and navigate to http://localhost:5000 (or the specified port). You should see the application 
+  Open your browser and navigate to [http://localhost:5000](http://localhost:5000/api/questions) (or the specified port). You should see the application 
   
   running.
 
