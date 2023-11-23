@@ -1,0 +1,16 @@
+{
+  "name": "reelo-server",
+  "version": "1.0.0",
+  "description": "reelo backend server to serve client requests.",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Ritesh Singh - itsriteshoff@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}

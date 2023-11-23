@@ -1,0 +1,415 @@
+[
+    {
+        "question": "What is the speed of light",
+        "category": "Physics",
+        "topic": "Waves",
+        "difficulty": "Easy",
+        "marks": 5
+    },
+    {
+        "question": "How does photosynthesis work",
+        "category": "Biology",
+        "topic": "Botany",
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "question": "Define entropy in thermodynamics",
+        "category": "Chemistry",
+        "topic": "Thermodynamics",
+        "difficulty": "Hard",
+        "marks": 3
+    },
+    {
+        "question": "Who wrote 'Romeo and Juliet'",
+        "category": "Literature",
+        "topic": "Drama",
+        "difficulty": "Easy",
+        "marks": 5
+    },
+    {
+        "question": "What is the capital of France",
+        "category": "Geography",
+        "topic": "World Capitals",
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "question": "Solve the quadratic equation x^2 - 4x + 4 = 0",
+        "category": "Mathematics",
+        "topic": "Algebra",
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "question": "Who discovered penicillin",
+        "category": "Medicine",
+        "topic": "Medical History",
+        "difficulty": "Easy",
+        "marks": 5
+    },
+    {
+        "question": "What is the largest planet in our solar system",
+        "category": "Astronomy",
+        "topic": "Planets",
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "question": "Explain the concept of supply and demand",
+        "category": "Economics",
+        "topic": "Microeconomics",
+        "difficulty": "Medium",
+        "marks": 3
+    },
+    {
+        "question": "Name the three branches of the U.S. government",
+        "category": "Politics",
+        "topic": "Government",
+        "difficulty": "Easy",
+        "marks": 5
+    },
+    {
+        "question": "What is the function of mitochondria in a cell",
+        "category": "Biology",
+        "topic": "Cell Biology",
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "question": "Who painted the Mona Lisa",
+        "category": "Art",
+        "topic": "Painting",
+        "difficulty": "Easy",
+        "marks": 5
+    },
+    {
+        "question": "What is the formula for calculating density",
+        "category": "Physics",
+        "topic": "Density",
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "question": "Define the term 'algorithm'",
+        "category": "Computer Science",
+        "topic": "Algorithms",
+        "difficulty": "Medium",
+        "marks": 3
+    },
+    {
+        "question": "Who is known as the 'Father of Modern Physics'",
+        "category": "Physics",
+        "topic": "Scientists",
+        "difficulty": "Easy",
+        "marks": 5
+    },
+    {
+        "question": "What is the difference between weather and climate",
+        "category": "Environmental Science",
+        "topic": "Climate",
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "question": "Name the five senses",
+        "category": "Biology",
+        "topic": "Human Anatomy",
+        "difficulty": "Easy",
+        "marks": 5
+    },
+    {
+        "question": "What is the capital of Japan",
+        "category": "Geography",
+        "topic": "World Capitals",
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "question": "Simplify the expression (3x + 2)(x - 4)",
+        "category": "Mathematics",
+        "topic": "Algebra",
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "question": "What is the function of the pancreas in the human body",
+        "category": "Biology",
+        "topic": "Human Anatomy",
+        "difficulty": "Hard",
+        "marks": 3
+    },
+    {
+        "question": "Who wrote 'To Kill a Mockingbird'",
+        "category": "Literature",
+        "topic": "Novels",
+        "difficulty": "Easy",
+        "marks": 5
+    },
+    {
+        "question": "What is the chemical symbol for gold",
+        "category": "Chemistry",
+        "topic": "Elements",
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "question": "Explain the concept of inflation in economics",
+        "category": "Economics",
+        "topic": "Macroeconomics",
+        "difficulty": "Medium",
+        "marks": 3
+    },
+    {
+        "question": "Who discovered the structure of DNA",
+        "category": "Biology",
+        "topic": "Genetics",
+        "difficulty": "Hard",
+        "marks": 3
+    },
+    {
+        "question": "What is the capital of Australia",
+        "category": "Geography",
+        "topic": "World Capitals",
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "question": "Solve the equation 2x + 5 = 15",
+        "category": "Mathematics",
+        "topic": "Algebra",
+        "difficulty": "Easy",
+        "marks": 5
+    },
+    {
+        "question": "Define the term 'global warming'",
+        "category": "Environmental Science",
+        "topic": "Climate",
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "question": "Who was the first woman to win a Nobel Prize",
+        "category": "History",
+        "topic": "Nobel Prize",
+        "difficulty": "Easy",
+        "marks": 5
+    },
+    {
+        "question": "What is the boiling point of water in Celsius",
+        "category": "Chemistry",
+        "topic": "States of Matter",
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "question": "Explain the concept of dark matter in astrophysics",
+        "category": "Physics",
+        "topic": "Astrophysics",
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "question": "Discuss the role of enzymes in biochemical reactions",
+        "category": "Biology",
+        "topic": "Biochemistry",
+        "difficulty": "Hard",
+        "marks": 5
+    },
+    {
+        "question": "Prove the Pythagorean theorem",
+        "category": "Mathematics",
+        "topic": "Geometry",
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "question": "Evaluate the impact of deforestation on the ecosystem",
+        "category": "Environmental Science",
+        "topic": "Ecology",
+        "difficulty": "Hard",
+        "marks": 3
+    },
+    {
+        "question": "Describe the process of cellular respiration",
+        "category": "Biology",
+        "topic": "Cell Biology",
+        "difficulty": "Hard",
+        "marks": 5
+    },
+    {
+        "question": "Examine the laws governing chemical equilibrium",
+        "category": "Chemistry",
+        "topic": "Chemical Equilibrium",
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "question": "Derive the equation for the time dilation effect in special relativity",
+        "category": "Physics",
+        "topic": "Relativity",
+        "difficulty": "Hard",
+        "marks": 5
+    },
+    {
+        "question": "Analyze the economic impacts of globalization",
+        "category": "Economics",
+        "topic": "Globalization",
+        "difficulty": "Hard",
+        "marks": 3
+    },
+    {
+        "question": "Discuss the ethical considerations in genetic engineering",
+        "category": "Ethics",
+        "topic": "Genetic Engineering",
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "question": "Explore the principles of quantum computing",
+        "category": "Computer Science",
+        "topic": "Quantum Computing",
+        "difficulty": "Hard",
+        "marks": 5
+    },
+    {
+        "question": "Explain the concept of black holes in astrophysics",
+        "category": "Physics",
+        "topic": "Astrophysics",
+        "difficulty": "Hard",
+        "marks": 5
+    },
+    {
+        "question": "Discuss the process of meiosis in cell biology",
+        "category": "Biology",
+        "topic": "Cell Biology",
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "question": "Solve a system of linear equations using matrices",
+        "category": "Mathematics",
+        "topic": "Linear Algebra",
+        "difficulty": "Medium",
+        "marks": 3
+    },
+    {
+        "question": "Evaluate the impact of air pollution on human health",
+        "category": "Environmental Science",
+        "topic": "Air Quality",
+        "difficulty": "Hard",
+        "marks": 5
+    },
+    {
+        "question": "Examine the properties of noble gases in chemistry",
+        "category": "Chemistry",
+        "topic": "Periodic Table",
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "question": "Discuss the concept of elasticity in economics",
+        "category": "Economics",
+        "topic": "Microeconomics",
+        "difficulty": "Hard",
+        "marks": 5
+    },
+    {
+        "question": "Analyze the ethical considerations of artificial intelligence",
+        "category": "Ethics",
+        "topic": "Artificial Intelligence",
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "question": "Explain the role of opemarks systems in computer science",
+        "category": "Computer Science",
+        "topic": "Opemarks Systems",
+        "difficulty": "Medium",
+        "marks": 3
+    },
+    {
+        "question": "Discuss the impact of deforestation on climate change",
+        "category": "Environmental Science",
+        "topic": "Deforestation",
+        "difficulty": "Hard",
+        "marks": 5
+    },
+    {
+        "question": "Derive the equation for the velocity of an object in physics",
+        "category": "Physics",
+        "topic": "Kinematics",
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "question": "Explore the principles of genetic engineering in biology",
+        "category": "Biology",
+        "topic": "Genetic Engineering",
+        "difficulty": "Hard",
+        "marks": 5
+    },
+    {
+        "question": "Solve a quadratic programming problem in mathematics",
+        "category": "Mathematics",
+        "topic": "Optimization",
+        "difficulty": "Medium",
+        "marks": 3
+    },
+    {
+        "question": "Examine the properties of halogens in chemistry",
+        "category": "Chemistry",
+        "topic": "Periodic Table",
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "question": "Discuss the concept of market equilibrium in economics",
+        "category": "Economics",
+        "topic": "Microeconomics",
+        "difficulty": "Hard",
+        "marks": 5
+    },
+    {
+        "question": "Analyze the ethical implications of biotechnology",
+        "category": "Ethics",
+        "topic": "Biotechnology",
+        "difficulty": "Hard",
+        "marks": 5
+    },
+    {
+        "question": "Explain the architecture of a neural network in computer science",
+        "category": "Computer Science",
+        "topic": "Neural Networks",
+        "difficulty": "Hard",
+        "marks": 5
+    },
+    {
+        "question": "Discuss the impact of ocean acidification on marine life",
+        "category": "Environmental Science",
+        "topic": "Oceanography",
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "question": "Derive the equations of motion in physics",
+        "category": "Physics",
+        "topic": "Kinematics",
+        "difficulty": "Hard",
+        "marks": 5
+    },
+    {
+        "question": "Explore the principles of bioinformatics in biology",
+        "category": "Biology",
+        "topic": "Bioinformatics",
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "question": "Solve a system of nonlinear equations in mathematics",
+        "category": "Mathematics",
+        "topic": "Algebra",
+        "difficulty": "Hard",
+        "marks": 5
+    }
+]
