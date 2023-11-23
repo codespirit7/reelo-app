@@ -38,7 +38,7 @@
   
   By default, an Express server might run on http://localhost:5000.
   
-  Open your browser and navigate to http://localhost:3000 (or the specified port). You should see the application 
+  Open your browser and navigate to http://localhost:5000 (or the specified port). You should see the application 
   
   running.
 
