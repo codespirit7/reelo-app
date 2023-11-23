@@ -33,6 +33,15 @@
 
 `npm run start`
 
+**5. Access the server:**
+  Once the server is running, you should be able to access it in your browser or using tools like cURL or Postman.
+  
+  By default, an Express server might run on http://localhost:5000.
+  
+  Open your browser and navigate to http://localhost:3000 (or the specified port). You should see the application 
+  
+  running.
+
 
   
   
