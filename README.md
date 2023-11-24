@@ -67,3 +67,36 @@
 }
   
 </pre>
+
+- **totalMarks:** 100
+- **Difficulty:** An object specifying the distribution of questions across difficulty levels.
+  - easy: 20
+  - medium: 50
+  - hard: 30
+
+
+ ## Testing Guidelines
+
+- **Send a POST Request:**
+  - Use your preferred API testing tool (e.g., Postman, curl) to send a POST request to the provided URL: http://localhost:5000/api/questions.
+  - Set the request method to POST.
+  - Set the content type to application/json.
+  - Include the sample request body in the request payload.
+
+- **Review the Response:**
+  - Examine the response received from the API.
+  - Check for a successful status code (e.g., 200 OK).
+  - Verify that the response body contains relevant information.
+
+- **Validation:**
+  - Validate that the response structure matches the expected format.
+  - Ensure that the total marks and difficulty distribution are correctly processed.
+  - If applicable, handle error responses gracefully.
+
+- **Error Handling:**
+  - Test error scenarios by sending invalid requests or omitting required parameters.
+  - Verify that the API returns appropriate error codes and error messages.
+
+
+
+
