@@ -45,5 +45,23 @@
 
 ## Testing API
 
+**API Endpoint**
+**URL:** http://localhost:5000/api/questions
+**Method:** GET
+**Content Type:** application/json
+
 
   
+**Request Body**
+<pre>
+  ```javascript
+  {
+    "totalMarks": "100",
+    "Difficulty": {
+        "easy": "20",
+        "medium": "50",
+        "hard": "30"
+    }
+}
+  ```
+</pre>
