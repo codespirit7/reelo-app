@@ -77,8 +77,8 @@
 
  ## Testing Guidelines
 
-- **Send a POST Request:**
-  - Use your preferred API testing tool (e.g., Postman, curl) to send a POST request to the provided URL: http://localhost:5000/api/questions.
+- **Send a GET Request:**
+  - Use your preferred API testing tool (e.g., Postman, curl) to send a GET request to the provided URL: http://localhost:5000/api/questions.
   - Set the request method to GET.
   - Set the content type to application/json.
   - Include the sample request body in the request payload.
