@@ -113,7 +113,7 @@ const getQuestions = (
 
   const mediumArrayFromSet = Array.from(mediumArr);
 
-  // Generate a random index within the range of the selected easy Questions
+  // Generate a random index within the range of the selected medium Questions
   const mediumRandomIdx = Math.floor(Math.random() * mediumArrayFromSet.length);
 
   // Return the randomly selected element
@@ -123,7 +123,7 @@ const getQuestions = (
 
   const hardArrayFromSet = Array.from(hardArr);
 
-  // Generate a random index within the range of the selected easy Questions
+  // Generate a random index within the range of the selected hard Questions
   const hardRandomIdx = Math.floor(Math.random() * hardArrayFromSet.length);
 
   // Return the randomly selected element
